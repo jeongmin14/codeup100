@@ -1,1 +1,2 @@
-# codeup100
+# python 연습
+codeup100 문제풀이
